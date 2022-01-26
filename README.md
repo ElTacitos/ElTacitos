@@ -1,4 +1,5 @@
 ![Visits Badge](https://badges.pufler.dev/visits/ElTacitos/ElTacitos?style=for-the-badge&color=red)
+![Years Badge](https://badges.pufler.dev/years/ElTacitos?style=for-the-badge&color=green)
 [![npm](https://img.shields.io/badge/npm-ElTacitos-orange?style=for-the-badge&logo=npm&logoColor=white&color=orange)](https://www.npmjs.com/~eltacitos)
 
 Hello there :v:
