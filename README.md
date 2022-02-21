@@ -15,7 +15,7 @@ I'm just a computer science student having some fun on different projects.
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ElTacitos&repo=boatRecon&theme=gruvbox&hide_border=true" />
 </a>
 
-<br>
+<br> /
 <br>
 
 ## &#x1f4c8; My Stats
@@ -27,7 +27,6 @@ I'm just a computer science student having some fun on different projects.
 
 <br>
 
-## 💼 Skills
 ### 💻 Code
 ![](https://img.shields.io/badge/-VueJS-informational?style=for-the-badge&logo=Vue.js&logoColor=4FC08D&color=555555)
 ![](https://img.shields.io/badge/-TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=3178C6&color=555555)
