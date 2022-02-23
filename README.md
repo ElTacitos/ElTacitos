@@ -12,7 +12,7 @@ I'm just a computer science student having some fun on different projects.
 </a>
 
 <a href="https://github.com/ElTacitos/boatRecon">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ElTacitos&repo=boatRecon&theme=gruvbox&hide_border=true" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ElTacitos&repo=tiny-vue-components&theme=gruvbox&hide_border=true" />
 </a>
 
 <br> /
