@@ -11,7 +11,7 @@ I'm just a computer science student having some fun on different projects.
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ElTacitos&repo=tiny-logger&theme=gruvbox&hide_border=true" />
 </a>
 
-<a href="https://github.com/ElTacitos/boatRecon">
+<a href="https://github.com/ElTacitos/tiny-vue-components">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ElTacitos&repo=tiny-vue-components&theme=gruvbox&hide_border=true" />
 </a>
 
