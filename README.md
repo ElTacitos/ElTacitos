@@ -29,6 +29,7 @@ I'm just a computer science student having some fun on different projects.
 
 ### 💻 Code
 ![](https://img.shields.io/badge/-VueJS-informational?style=for-the-badge&logo=Vue.js&logoColor=4FC08D&color=555555)
+![](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&logoColor=61DBFB&color=555555)
 ![](https://img.shields.io/badge/-TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=3178C6&color=555555)
 ![](https://img.shields.io/badge/-Nodejs-informational?style=for-the-badge&logo=Node.js&logoColor=339933&color=555555)
 ![](https://img.shields.io/badge/-ExpressJs-informational?style=for-the-badge&logo=Express&logoColor=white&color=555555)
